@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InternalSensor</string>
+    <string name="message_sensor_not_supported">Proximity sensor is not supported</string>
+</resources>
